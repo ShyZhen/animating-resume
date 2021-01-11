@@ -30,4 +30,6 @@ npm run dev
 npm run build
 ```
 
+## 发布
+build之后的文件生成在public中，需要修改index.html中引入文件对应的目录
 
